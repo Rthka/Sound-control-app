@@ -1,0 +1,47 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background:linear-gradient(white,orange);
+}
+
+.header_div p
+{
+    font-family: 'Oswald', sans-serif;
+    text-shadow:5px 5px 10px grey;
+    letter-spacing: 2px; 
+}
+
+h2
+{
+font-weight:bolder;
+}
+
+.main_div button
+{
+font-weight:bolder;
+font-family: 'PT Sans Narrow', sans-serif;
+letter-spacing: 2px;
+margin-top: 30px;
+width: 140px;
+}
+
+.copy_right_footer
+{
+    bottom:0;
+    position:fixed;
+    font-size:20px;
+    line-height:3;
+    text-shadow:5px 5px 10px rgb(75, 72, 72);
+    text-align:center;
+    color:black;
+    width:100%;
+    font-family: 'Comic Neue', cursive;
+    font-weight: bold;
+
+}
+
+.main_div
+{
+    font-family: 'Roboto Slab', serif;
+}
+
